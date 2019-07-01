@@ -12,9 +12,9 @@ Press 'M' to load the direct evidence markers data.  Subsequently, press 'P' to 
 Required input files:
 - direct evidence data for a set of neuron types and gene/protein expression (Hippocampome-Markers_v0.8beta_reordered_w_tildes_plus_new_classes_20160415-working-categorized_reordered_NewNames-20171221-working.xlsx)
 - support_datafiles
-1) soma location information for neuron types (_Hippocampome_somata_active_20170124.xlsx)
-2) list of REIs (_Hippocampome_inferences_20190528.xlsx)
-3) conflict evaluation log (_Conflict_Evaluation_Log_20160401-20170123.xlsx)
+a) soma location information for neuron types (_Hippocampome_somata_active_20170124.xlsx)
+b) list of REIs (_Hippocampome_inferences_20190528.xlsx)
+c) conflict evaluation log (_Conflict_Evaluation_Log_20160401-20170123.xlsx)
 
 ******************************************************************************************
 Refer to the following article for more information:
